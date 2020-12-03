@@ -87,6 +87,20 @@ ul li a{
     height: 21rem;
     margin-top: -21rem;
 }
+.btn-d{
+    background-color: #10B981;
+    border-radius: 0.4rem;
+    border: 0rem;
+    height: 2rem;
+    width: 6rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: white;
+}
+.btn-d:hover{
+    background-color: #065F46;
+}
 .img-f{
     height: 13rem;
     margin: -0.08rem;
@@ -94,6 +108,8 @@ ul li a{
     border-top-right-radius: 1rem;
 }
 .p-text1{
+    display: flex;
+    flex-direction: column;
     background-color: #4B5563;
     height: 8rem;
     border-bottom-left-radius: 1rem;
@@ -133,7 +149,7 @@ ul li a{
 }
 .p-text2{
     background-color: #4B5563;
-    height: 8rem;
+    height: 9rem;
     width: 22rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
