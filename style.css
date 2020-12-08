@@ -169,6 +169,13 @@ ul li a{
     font-size: 1rem;
     color: #aaafb6;
 }
+.bta{
+    height: 14.6rem;
+    width: 22rem;
+    margin-top: 4rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
 .sect-blog{
     display: flex;
     flex-direction: column;
