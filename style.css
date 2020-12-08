@@ -65,8 +65,7 @@ ul li a{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin-top: 9rem;
-    padding: 0rem;
+    margin-top: 2rem;
 }
 .sect-head{
     color: white;
@@ -78,8 +77,6 @@ ul li a{
         display: flex;
         flex-direction: column;
         align-items: center;
-        margin-top: 13rem;
-        margin-bottom: 4rem;
 }
 .sect-divn {
     display: flex;
