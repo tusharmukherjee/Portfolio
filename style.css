@@ -81,6 +81,13 @@ ul li a{
         margin-top: 13rem;
         margin-bottom: 4rem;
 }
+.sect-divn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: -7rem;
+}
 /* .projects{
     display: flex;
     flex-direction: column;
@@ -326,4 +333,10 @@ ul li{
     background-color: black;
     color: white;
     height: 14rem;
+}
+a:link{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
 }
