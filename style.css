@@ -82,6 +82,7 @@ ul li a{
     font-size: 1.5rem;
     font-family: 'Helvetica', serif;
     font-weight: 100;
+    margin: 0, 0, 5px, 0;
 }
 .namexp{
     font-weight: lighter;
@@ -132,7 +133,7 @@ ul li a{
     margin-top: -21rem;
 }
 .btn-d{
-    background-color: #10B981;
+    background-color: #00FF8B;
     border-radius: 0.4rem;
     border: 0rem;
     height: 2rem;
