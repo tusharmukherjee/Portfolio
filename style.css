@@ -89,6 +89,9 @@ ul li a{
     font-size: 0.9rem;
     margin: -0.5rem;
 }
+.main-name{
+    margin-bottom: 20px;
+}
 .sect-pro{
     display: flex;
     justify-content: center;
